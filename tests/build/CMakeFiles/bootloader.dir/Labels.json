@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/Users/saurabh.gandhi/Seafile/Activities/Making/watchy-sports-software/tests/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/mnt/c/Users/saurabh.gandhi/Seafile/Activities/Making/watchy-sports-software/tests/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/saurabh.gandhi/Seafile/Activities/Making/watchy-sports-software/tests/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/saurabh.gandhi/Seafile/Activities/Making/watchy-sports-software/tests/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/saurabh.gandhi/Seafile/Activities/Making/watchy-sports-software/tests/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/saurabh.gandhi/Seafile/Activities/Making/watchy-sports-software/tests/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/saurabh.gandhi/Seafile/Activities/Making/watchy-sports-software/tests/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/saurabh.gandhi/Seafile/Activities/Making/watchy-sports-software/tests/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/saurabh.gandhi/Seafile/Activities/Making/watchy-sports-software/tests/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/saurabh.gandhi/Seafile/Activities/Making/watchy-sports-software/tests/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
